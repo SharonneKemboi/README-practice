@@ -1,6 +1,6 @@
 # {Application Name} <!--h1-->
-#### {This is a README practice page}, {22/02/2022}
-#### By **{Sharonne Kemboi,Mercy Chemutai, Brian Jomo , Esther Adwete}**
+#### This is a README practice page, 22/02/2022
+#### By **Sharonne Kemboi,Mercy Chemutai, Brian Jomo , Esther Adwete**
 ## Description<!--h2-->
 {This is a README demo for the standups presentation. It outlines the Basics of Markdown and the syntax used }
 ## Setup/Installation Requirements
